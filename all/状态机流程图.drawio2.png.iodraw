@@ -308,34 +308,6 @@
         <mxCell id="xkjXYJNsalKokMt04C4n-0" value="&lt;b&gt;状态机流程&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="3" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dJEzZDLva6pFnSjyrceb-2" target="dJEzZDLva6pFnSjyrceb-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-1" value="temporalCount(tick) &amp;gt;= 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dJEzZDLva6pFnSjyrceb-0">
-          <mxGeometry x="-0.3333" y="-3" relative="1" as="geometry">
-            <mxPoint x="10" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-2" value="&lt;div&gt;Report&lt;/div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;disconnected=false;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="137" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dJEzZDLva6pFnSjyrceb-5" target="dJEzZDLva6pFnSjyrceb-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-4" value="elapsed(sec) &amp;gt;= 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dJEzZDLva6pFnSjyrceb-3">
-          <mxGeometry x="-0.1714" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-5" value="&lt;div&gt;BreakLo&lt;/div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;lo_contactor = false;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="247" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-6" value="&lt;div&gt;BreakHi&lt;/div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;hi_contactor = false;&lt;/div&gt;&lt;div&gt;pre_contactor = false;&lt;/div&gt;&lt;div&gt;disconnected=true;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="137" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="dJEzZDLva6pFnSjyrceb-7" value="&lt;b&gt;Disconnecting&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="5" y="45" width="110" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
