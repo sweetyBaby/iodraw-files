@@ -4,11 +4,13 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="zSHlGCIsZ3IJblHYFWI6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="zSHlGCIsZ3IJblHYFWI6-0">
+        <mxCell id="zSHlGCIsZ3IJblHYFWI6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.97" y="289.97" as="sourcePoint" />
+            <mxPoint x="569.97" y="139.97" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="145" />
-              <mxPoint x="620" y="145" />
+              <mxPoint x="189.97" y="129.97" />
+              <mxPoint x="569.97" y="129.97" />
             </Array>
           </mxGeometry>
         </mxCell>
