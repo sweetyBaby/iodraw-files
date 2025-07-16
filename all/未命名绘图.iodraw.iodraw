@@ -12,9 +12,9 @@
             <mxPoint x="220" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-42" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;boot_complete == true&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-1">
+        <mxCell id="wkS7BS81HADjhMWFUyel-42" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;boot_complete == true&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-3;" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-1">
           <mxGeometry x="-0.2667" y="-3" relative="1" as="geometry">
-            <mxPoint x="3" y="15" as="offset" />
+            <mxPoint x="3" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="wkS7BS81HADjhMWFUyel-21">
