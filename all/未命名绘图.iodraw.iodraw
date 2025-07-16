@@ -283,6 +283,7 @@
           <mxGeometry x="-0.4615" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1510" y="310" />
+              <mxPoint x="1310" y="320" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
