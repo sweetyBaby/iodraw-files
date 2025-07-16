@@ -68,6 +68,11 @@
         <mxCell id="zSHlGCIsZ3IJblHYFWI6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.994;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zSHlGCIsZ3IJblHYFWI6-1" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zSHlGCIsZ3IJblHYFWI6-19" value="fault_disconnected == true &amp;amp;&amp;amp; fault_status &amp;lt;= 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zSHlGCIsZ3IJblHYFWI6-18">
+          <mxGeometry x="0.0703" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
