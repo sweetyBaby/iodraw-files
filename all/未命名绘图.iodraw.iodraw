@@ -140,13 +140,15 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wkS7BS81HADjhMWFUyel-43" target="wkS7BS81HADjhMWFUyel-25">
+        <mxCell id="wkS7BS81HADjhMWFUyel-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="470" as="sourcePoint" />
+            <mxPoint x="870" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1080" y="480" />
-              <mxPoint x="1080" y="320" />
-              <mxPoint x="950" y="320" />
-              <mxPoint x="950" y="160" />
+              <mxPoint x="1090" y="470" />
+              <mxPoint x="1090" y="310" />
+              <mxPoint x="960" y="310" />
+              <mxPoint x="960" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,7 +157,7 @@
             <mxPoint x="-29" y="-81" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-31">
+        <mxCell id="wkS7BS81HADjhMWFUyel-45" value="&lt;div&gt;elapsed(sec)&amp;gt;1 &amp;amp;&amp;amp; abs(string_voltage - bus_voltage) &amp;lt; merge_voltage_delta...&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; abs(string_current_100ms) &amp;lt; precharge_curr_tolerance ]&lt;/div&gt;&lt;div&gt;{hi_contactor = true&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-31">
           <mxGeometry x="-0.47" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
