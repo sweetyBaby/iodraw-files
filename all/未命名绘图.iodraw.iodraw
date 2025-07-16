@@ -88,7 +88,7 @@
             <mxPoint x="840" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-24" value="&lt;div&gt;elapsed(sec) &amp;gt; 1 &amp;amp;&amp;amp;...&lt;/div&gt;&lt;div&gt;&amp;nbsp;string_current_100ms &amp;lt; precharge_curr_tolerance&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-23">
+        <mxCell id="wkS7BS81HADjhMWFUyel-24" value="&lt;div&gt;elapsed(sec) &amp;gt; 1 &amp;amp;&amp;amp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;string_current_100ms &amp;lt; precharge_curr_tolerance&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-23">
           <mxGeometry x="-0.0025" y="2" relative="1" as="geometry">
             <mxPoint x="-1" y="-2" as="offset" />
           </mxGeometry>
