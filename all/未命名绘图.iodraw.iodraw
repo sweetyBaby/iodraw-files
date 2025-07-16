@@ -182,7 +182,9 @@
           <mxGeometry x="1130" y="270" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-53" value="mod(temporalCount(tick),4)== 0&lt;br&gt;{sub_state = check_substate(string_current_100ms,current_dead_zone,trickle_allowed,trickle_loop_tolerance) }" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wkS7BS81HADjhMWFUyel-44" target="wkS7BS81HADjhMWFUyel-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.3333" y="154" relative="1" as="geometry">
+            <mxPoint x="-4" y="-35" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
