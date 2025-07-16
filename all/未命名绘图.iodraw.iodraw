@@ -100,11 +100,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="320" />
-              <mxPoint x="880" y="530" />
+              <mxPoint x="880" y="520" />
+              <mxPoint x="800" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-26">
+        <mxCell id="wkS7BS81HADjhMWFUyel-27" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;command == 2&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-26">
           <mxGeometry x="0.2" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
