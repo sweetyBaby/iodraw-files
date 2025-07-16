@@ -90,7 +90,7 @@
             <mxPoint x="94" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wkS7BS81HADjhMWFUyel-15" target="wkS7BS81HADjhMWFUyel-16">
+        <mxCell id="wkS7BS81HADjhMWFUyel-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wkS7BS81HADjhMWFUyel-15" target="wkS7BS81HADjhMWFUyel-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-63" value="isolation_fault == true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-18">
