@@ -168,6 +168,9 @@
         <mxCell id="wkS7BS81HADjhMWFUyel-28" value="PreCharge&lt;div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;lo_contactor = true;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="310" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wkS7BS81HADjhMWFUyel-41" value="&lt;div&gt;command==1&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; fault_status&amp;lt;4&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;amp;&amp;amp; lo_contactor == false&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; hi_contactor == false&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; pre_contactor == false&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="550" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
