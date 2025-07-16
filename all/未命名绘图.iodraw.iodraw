@@ -164,7 +164,7 @@
           <mxGeometry x="730" y="310" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-41" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;isolation_chek == 2&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 12px; text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&amp;amp;&amp;amp; disconnected == true&lt;/span&gt;&lt;br style=&quot;font-size: 12px; text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&amp;nbsp;&amp;amp;&amp;amp; fault_status &amp;lt;= 3&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="550" as="geometry" />
+          <mxGeometry x="430" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
