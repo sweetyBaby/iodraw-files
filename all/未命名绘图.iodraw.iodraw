@@ -158,7 +158,7 @@
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-47" value="&lt;div&gt;elapsed(sec)&amp;gt;1&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; abs(string_voltage - bus_voltage) &amp;lt; merge_voltage_delta...&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; abs(string_current_100ms) &amp;lt; precharge_curr_tolerance&lt;/div&gt;&lt;div&gt;{hi_contactor = true}&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-46">
           <mxGeometry x="0.0136" y="6" relative="1" as="geometry">
-            <mxPoint x="79" y="2" as="offset" />
+            <mxPoint x="74" y="82" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-28" value="PreCharge&lt;div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;lo_contactor = true;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -168,7 +168,7 @@
           <mxGeometry x="440" y="620" as="geometry" />
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-43" value="Delay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="1030" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-44" value="Faulted" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="300" width="120" height="40" as="geometry" />
