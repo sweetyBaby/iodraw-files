@@ -250,6 +250,9 @@
             <mxPoint x="103" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wkS7BS81HADjhMWFUyel-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wkS7BS81HADjhMWFUyel-44" target="wkS7BS81HADjhMWFUyel-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-44" value="&lt;div&gt;HVActive&lt;/div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;working_state = 3;&lt;/div&gt;&lt;div&gt;pre_contactor&amp;nbsp; = false;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1130" y="270" width="130" height="70" as="geometry" />
         </mxCell>
@@ -265,7 +268,7 @@
           <mxGeometry x="520" y="285" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-75" value="Disconnecting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="1135" y="180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
