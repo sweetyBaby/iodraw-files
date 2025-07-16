@@ -230,7 +230,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-47" value="&lt;div&gt;elapsed(sec)&amp;gt;1&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; abs(string_voltage - bus_voltage) &amp;lt; merge_voltage_delta...&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; abs(string_current_100ms) &amp;lt; precharge_curr_tolerance&lt;/div&gt;&lt;div&gt;{hi_contactor = true}&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-46">
+        <mxCell id="wkS7BS81HADjhMWFUyel-47" value="&lt;div&gt;elapsed(sec)&amp;gt;1&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; abs(string_voltage - bus_voltage) &amp;lt; merge_voltage_delta&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp; abs(string_current_100ms) &amp;lt; precharge_curr_tolerance&lt;/div&gt;&lt;div&gt;{hi_contactor = true}&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-46">
           <mxGeometry x="0.0136" y="6" relative="1" as="geometry">
             <mxPoint x="74" y="82" as="offset" />
           </mxGeometry>
