@@ -24,13 +24,10 @@
             <Array as="points">
               <mxPoint x="310" y="470" />
               <mxPoint x="310" y="440" />
+              <mxPoint x="510" y="440" />
+              <mxPoint x="510" y="439" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-39" value="&lt;br&gt;&lt;span style=&quot;text-wrap-mode: wrap; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;isolation_chek == 1&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-12">
-          <mxGeometry x="0.2926" y="-2" relative="1" as="geometry">
-            <mxPoint x="5" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="wkS7BS81HADjhMWFUyel-15">
