@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-25" value="&lt;div&gt;PrechargeFault&lt;/div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;precharge_fault = true&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="160" width="130" height="50" as="geometry" />
+          <mxGeometry x="737" y="160" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wkS7BS81HADjhMWFUyel-28" target="wkS7BS81HADjhMWFUyel-25">
           <mxGeometry relative="1" as="geometry" />
