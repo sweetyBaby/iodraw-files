@@ -65,6 +65,22 @@
             <mxPoint x="160" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zSHlGCIsZ3IJblHYFWI6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zSHlGCIsZ3IJblHYFWI6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="241" y="455" />
+              <mxPoint x="241" y="450" />
+              <mxPoint x="250" y="450" />
+              <mxPoint x="250" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSHlGCIsZ3IJblHYFWI6-15" value="fault_disconnected == true &amp;amp;&amp;amp; fault_status &amp;lt;= 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zSHlGCIsZ3IJblHYFWI6-14">
+          <mxGeometry x="-0.0962" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
