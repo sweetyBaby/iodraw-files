@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-39" value="&lt;br&gt;&lt;span style=&quot;text-wrap-mode: wrap; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;isolation_chek == 1&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-12">
           <mxGeometry x="0.2926" y="-2" relative="1" as="geometry">
-            <mxPoint x="25" y="-12" as="offset" />
+            <mxPoint x="5" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wkS7BS81HADjhMWFUyel-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkS7BS81HADjhMWFUyel-38" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;isolation_chek == 2&amp;nbsp; &amp;amp;&amp;amp; disconnected == true &amp;amp;&amp;amp; fault_status &amp;lt;= 3&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-14">
+        <mxCell id="wkS7BS81HADjhMWFUyel-38" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;isolation_chek == 2&amp;nbsp; &lt;br&gt;&amp;amp;&amp;amp; disconnected == true&lt;br&gt;&amp;nbsp;&amp;amp;&amp;amp; fault_status &amp;lt;= 3&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wkS7BS81HADjhMWFUyel-14">
           <mxGeometry x="0.7286" y="-2" relative="1" as="geometry">
             <mxPoint x="-54" y="8" as="offset" />
           </mxGeometry>
