@@ -327,8 +327,13 @@
         <mxCell id="cRUKxvfK-g-na6z96s0K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cRUKxvfK-g-na6z96s0K-2" target="cRUKxvfK-g-na6z96s0K-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cRUKxvfK-g-na6z96s0K-7" value="elapsed(sec) &amp;gt;= 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cRUKxvfK-g-na6z96s0K-6">
+          <mxGeometry x="-0.1714" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cRUKxvfK-g-na6z96s0K-2" value="&lt;div&gt;BreakLo&lt;/div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;lo_contactor = false;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="330" y="210" width="130" height="60" as="geometry" />
+          <mxGeometry x="360" y="210" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cRUKxvfK-g-na6z96s0K-3" value="&lt;div&gt;BreakHi&lt;/div&gt;&lt;div&gt;entry:&lt;/div&gt;&lt;div&gt;hi_contactor = false;&lt;/div&gt;&lt;div&gt;pre_contactor = false;&lt;/div&gt;&lt;div&gt;disconnected=true;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="540" y="100" width="160" height="90" as="geometry" />
